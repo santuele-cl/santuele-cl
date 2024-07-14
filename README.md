@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **ReactJs, NextJs**
+- 💬 Ask me about **ReactJs, NextJs, Material UI**
 
 - 📫 How to reach me **santuele.cl@gmail.com**
 

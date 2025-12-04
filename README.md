@@ -2,8 +2,6 @@
 
 ### An experienced web developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santuele-cl&label=Profile views&color=0e75b6&style=flat" alt="santuele-cl" /> </p>
-
 - 🔭 I'm currently working on **a React Native application**
 
 - 🌱 I'm currently learning **React Native**

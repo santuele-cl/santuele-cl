@@ -1,6 +1,6 @@
 # Hi 👋, I'm Clyde
 
-### An experienced web developer
+### An experienced developer
 
 - 🔭 I'm currently working on **a React Native application**
 
